@@ -18,3 +18,5 @@ Your users will receive an auto-reply! <br> <br>
 
 - Price Alerts <br>
 You will receive a notification when the item(s) you are looking for are found! <br>
+
+<a href="https://youtube.com/playlist?list=PLavYy9oK8m7sRuRdv_dUx44ugajytsb3v" target="_blank"><h3><i>Tutorials for PRE-BOT (YOUTUBE)</i></h3></a>
