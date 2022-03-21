@@ -1,20 +1,20 @@
-RL-GARAGE-PRE-BOT
-PRE-BOT v1.0.6 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Message Reply, Item Alerts
+<h1>RL-GARAGE-PRE-BOT</h1> <br>
+PRE-BOT v1.0.6 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
 
-How to use?
-- You need the latest version of Mozilla Fireworks Browser!
-- Install RL-GARAGE PRE-BOT released version!
-- Run PRE-BOT.exe
-- Enjoy :)
+How to use? <br>
+- You need the latest version of <a href="https://www.mozilla.org/firefox/new/" target="_blank">Mozilla Fireworks Browser!</a> <br>
+- Install RL-GARAGE PRE-BOT released version! <br>
+- Run PRE-BOT.exe <br>
+- Enjoy :) <br> <br>
 
-Tested on Windows 10(x64) Pro, Windows 11(x64) Pro
+Tested on Windows 10(x64) Pro, Windows 11(x64) Pro <br> <br>
 
-Features
-1 - Auto Trade Bumper
-All your trade offers are updated automatically!
+Features <br>
+1 - Auto Trade Bumper <br>
+All your trade offers are updated automatically! <br> <br>
 
-2 - Auto Reply Message
-Your users will receive an auto-reply!
+2 - Auto Reply Message <br>
+Your users will receive an auto-reply! <br> <br>
 
-3 - Price Alerts
-You will receive a notification when the item(s) you are looking for are found!
+3 - Price Alerts <br>
+You will receive a notification when the item(s) you are looking for are found! <br>
