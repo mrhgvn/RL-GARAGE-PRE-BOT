@@ -10,11 +10,11 @@ PRE-BOT v1.0.6 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply
 Tested on Windows 10(x64) Pro, Windows 11(x64) Pro <br> <br>
 
 <b>Features</b> <br>
-1 - Auto Trade Bumper <br>
+- Auto Trade Bumper <br>
 All your trade offers are updated automatically! <br> <br>
 
-2 - Auto Reply Message <br>
+- Auto Reply Message <br>
 Your users will receive an auto-reply! <br> <br>
 
-3 - Price Alerts <br>
+- Price Alerts <br>
 You will receive a notification when the item(s) you are looking for are found! <br>
