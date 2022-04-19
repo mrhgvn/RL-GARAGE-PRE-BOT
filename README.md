@@ -1,5 +1,5 @@
 <h1>RL-GARAGE PRE-BOT (Windows CLI)</h1> <br>
-PRE-BOT v1.0.6 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
+PRE-BOT v1.0.8 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
 
 <b>How to use?</b> <br>
 - You need the latest version of <a href="https://www.mozilla.org/firefox/new/" target="_blank">Mozilla Fireworks Browser!</a> <br>
