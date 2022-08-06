@@ -3,7 +3,7 @@ PRE-BOT v1.1.1 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply
 
 <b>How to use?</b> <br>
 - You need the latest version of <a href="https://www.mozilla.org/firefox/new/" target="_blank">Mozilla Fireworks Browser!</a> <br>
-- Install <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/releases/download/rocket-league.com/RL-GARAGE.PRE-BOT.v1.1.1.zip">RL-GARAGE PRE-BOT</a> released version! <br>
+- Install <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/releases/download/v1.1.1/RL-GARAGE.PRE-BOT.v1.1.1.zip">RL-GARAGE PRE-BOT</a> released version! <br>
 - Run <b>PRE-BOT.exe</b> <br>
 - Enjoy :) <br> <br>
 
