@@ -23,3 +23,5 @@ You will receive a notification when the item(s) you are looking for are found! 
 
 Release notes (v1.1.1 - 2022.08.06)
 <br>-- Minor bug fixes
+
+<b>Discord:</b> Emrah#9685
