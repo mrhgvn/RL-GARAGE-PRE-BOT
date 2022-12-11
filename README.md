@@ -19,7 +19,7 @@ Your users will receive an auto-reply! <br> <br>
 - Price Alerts <br>
 You will receive a notification when the item(s) you are looking for are found! <br>
 
-Release notes (v1.1.1 - 2022.11.27)
+Release notes (v1.1.1 - 2022.12.11)
 <br>-- Bugs fixed
 
 <b>Discord:</b> Emrah#9685
