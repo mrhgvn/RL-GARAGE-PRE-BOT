@@ -1,5 +1,5 @@
 <h1>RL-GARAGE PRE-BOT (Windows CLI)</h1> <br>
-PRE-BOT v1.1.5 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
+PRE-BOT v1.1.6 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
 
 <b>How to use?</b> <br>
 - You need the latest version of <a href="https://www.google.com/chrome" target="_blank">Google Chrome Browser!</a> <br>
@@ -19,8 +19,8 @@ Your users will receive an auto-reply! <br> <br>
 - Price Alerts <br> 
 You will receive a notification when the item(s) you are looking for are found! <br>
 
-Release notes (v1.1.5 - 2023.02.12)
+Release notes (v1.1.6 - 2023.02.15)
 <br>
-- Bugs fixed
+- Minor changes
 
 <b>Discord:</b> Emrah#9685
