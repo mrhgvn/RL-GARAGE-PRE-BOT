@@ -16,7 +16,7 @@ All your trade offers are updated automatically! <br> <br>
 - Auto Reply Message <br>
 Your users will receive an auto-reply! <br> <br>
 
-<strike>- Price Alerts </strike> - Item alert is currently unavailable! :(<br> 
+<strike>- Price Alerts </strike> - Currently unavailable! :(<br> 
 You will receive a notification when the item(s) you are looking for are found! <br>
 
 Release notes (v1.1.8 - 2023.02.25)
