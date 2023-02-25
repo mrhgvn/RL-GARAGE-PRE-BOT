@@ -25,5 +25,5 @@ Release notes (v1.1.8 - 2023.02.25)
  - Auto Reply: Message text edited
  - Minor changes
 
-<b>Discord:</b> Emrah#9685
+<b>Discord:</b> Emrah#9685 <br>
 <b>Telegram:</b> t.me/mrhgvn
