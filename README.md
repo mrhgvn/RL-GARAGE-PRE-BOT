@@ -1,4 +1,4 @@
-<h1>RL-GARAGE PRE-BOT (Windows CLI)</h1> <br>
+<h1>RL-GARAGE AUTO BUMPER (PRE-BOT - Windows CLI)</h1> <br>
 PRE-BOT v1.2.2 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
 
 <b>How to use?</b> <br>
