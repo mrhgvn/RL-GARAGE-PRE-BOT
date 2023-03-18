@@ -1,6 +1,6 @@
 <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/">#RL Garage Auto Bumper</a> <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/">#RL Garage Auto Reply</a> <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/">#RL Garage Trading Bot</a> <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/">#Rocket League Trade Bot</a>
 <h1>RL-GARAGE AUTO BUMPER (PRE-BOT - Windows CLI) (2023)</h1> <br>
-PRE-BOT v1.2.4 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
+PRE-BOT v1.2.5 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply Message , Price Alerts <br> <br>
 
 <b>How to use?</b> <br>
 - You need the latest version of <a href="https://www.google.com/chrome" target="_blank">Google Chrome Browser!</a> <br>
@@ -20,9 +20,8 @@ Your users will receive an auto-reply! <br> <br>
 - Price Alerts <br> 
 You will receive a notification when the item(s) you are looking for are found! <br>
 
-Release notes (v1.2.4 - 2023.03.16) <br>
- - Item Alerts: Telegram notifications added
- - Auto Reply: Bug fixed
+Release notes (v1.2.5 - 2023.03.18) <br>
+ - Item Alerts: Telegram notifications fixed
 
 <b>Discord:</b> Emrah#9685 <br>
 <b>Telegram:</b> t.me/mrhgvn
