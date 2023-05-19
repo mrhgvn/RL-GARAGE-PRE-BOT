@@ -19,7 +19,7 @@ Your users will receive an auto-reply! <br> <br>
 - Price Alerts <br> 
 You will receive a notification when the item(s) you are looking for are found! <br>
 
-Release notes (v1.2.9 - 2023.05.19) <br>
+Release notes (v1.3.0 - 2023.05.19) <br>
  - Bug fixes
  - Performance optimization
 
