@@ -4,7 +4,7 @@ PRE-BOT v1.3.3 for RL-GARAGE (Rocket-League.com) # Auto Trade Bumper, Auto Reply
 <b>How to use?</b> <br>
 - You need the latest version of <a href="https://www.google.com/chrome" target="_blank">Google Chrome Browser!</a> <br>
 - Install <a href="https://github.com/mrhgvn/RL-GARAGE-PRE-BOT/releases">RL-GARAGE PRE-BOT</a> released version! <br>
-- Run as administrator <b>PRE-BOT.exe</b> <br>
+- Run as administrator <b>PRE-BOT</b> <br>
 - Enjoy :) <br> <br>
 
 Tested on Windows 10(x64) Pro, Windows 11(x64) Pro <br> <br>
